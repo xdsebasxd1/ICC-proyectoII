@@ -1,2 +1,1 @@
-# ICC-proyectoII
-Sebastian-Ricardo-Mateo
+# ICC-ProyectoII
